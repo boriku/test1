@@ -4,13 +4,8 @@
   <head>
     <title> Queen, 퀸 </title>
     <meta charset="utf-8">
-    <meta name="description" content="Queen 집중 탐구"
-    <meta property="og:title" content="Queen, 퀸"
-    <meta property="og:description" content="안녕하세요. 퀸 설명 페이지에 오신 것을 환영합니다"
-    <meta property="og:image"="https://www.billboard.com/files/styles/article_main_image/public/media/queen-portrait-circa-1975-billboard-1548.jpg">
-    <meta property="og:url"content="http://test.com">
-    <meta property="og:type"content="website">
   </head>
+
 
   <body>
     <h1><strong>Queen, 퀸</strong></h1>
